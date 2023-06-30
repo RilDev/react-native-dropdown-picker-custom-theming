@@ -1,10 +1,10 @@
 import { StyleSheet } from "react-native";
 
 export const ICONS = {
-  ARROW_DOWN: require("./icons/arrow-down.png"),
-  ARROW_UP: require("./icons/arrow-up.png"),
-  TICK: require("./icons/tick.png"),
-  CLOSE: require("./icons/close.png"),
+  ARROW_DOWN: require("./assets/icons/arrow-down.png"),
+  ARROW_UP: require("./assets/icons/arrow-up.png"),
+  TICK: require("./assets/icons/tick.png"),
+  CLOSE: require("./assets/icons/close.png"),
 };
 
 const Colors = {
