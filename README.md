@@ -1,5 +1,7 @@
 # React Native Dropdown Picker Custom Theming
 
+Issue: https://github.com/hossein-zare/react-native-dropdown-picker/issues/678
+
 ## Bug: Can't add a custom theme
 
 ### Reproduction Steps
